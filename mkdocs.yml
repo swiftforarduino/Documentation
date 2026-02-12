@@ -20,7 +20,7 @@ theme:
       primary: blue
       accent: deep orange
 nav:
-  - Home: index.md
+  - Home: docs/index.md
 
 markdown_extensions:
   - attr_list
